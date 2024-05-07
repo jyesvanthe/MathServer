@@ -30,6 +30,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 math.html
 <html>
 <head>
@@ -129,7 +130,7 @@ urlpatterns = [
     path('',views.surfacearea,name="surfaceareaofcylinderroot")
 ]
 
-
+```
 
 ## SERVER SIDE PROCESSING:
 ![Screenshot 2](https://github.com/jyesvanthe/MathServer/assets/150319392/67e0f322-0a62-44c0-b1f6-903185fea8fc)
